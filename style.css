@@ -1,0 +1,37 @@
+h1 {
+   
+    color: blue;
+}
+body {background-color :#f5f5dd ;}
+.square1 {
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    background-color:rgb(3, 3, 3);
+
+  }
+  
+.square2 {
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    background-color:rgba(3, 3, 0, 0.7);
+
+  }
+  
+.square3 {
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    background-color:rgb(3, 3, 0,0.5);
+    
+  }
+  
+.square4 {
+    margin: 2%;
+    width:200px;
+    height: 200px;
+    background-color:rgb(3, 3, 0, 0.3);
+   
+  }
+  
